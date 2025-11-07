@@ -1,4 +1,4 @@
-![](Images\logo.png)
+![](Images/logo.png)
 
 # 🧠 Airbnb Rio de Janeiro – Guest–Host Matching & Booking Growth Analysis
 
